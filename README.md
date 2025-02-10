@@ -1,6 +1,10 @@
-# React + TypeScript + Vite
+# Axcelerate SFE 
+>React + TypeScript + Vite
+
 **To Run Project**
+
 This just displays the FullList.tsx component. 
+
 1. `npm install`
 2. `npm run dev`
 
